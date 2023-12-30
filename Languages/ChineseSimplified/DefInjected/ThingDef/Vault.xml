@@ -1,31 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Walls -->
+	<!-- Walls -->
 
-  <VaultWall.label>金库墙</VaultWall.label>
-  <VaultWall.description>近乎坚不可摧的金库墙.</VaultWall.description>
-  <VaultWall_Blueprint.label>金库墙(蓝图)</VaultWall_Blueprint.label>
-  <VaultWall_Frame.label>金库墙(建造中)</VaultWall_Frame.label>
-  <VaultWall_Frame.description>近乎坚不可摧的金库墙.</VaultWall_Frame.description>
-
-
-  <!-- Doors -->
-
-  <VaultDoor.label>金库门</VaultDoor.label>
-  <VaultDoor.description>近乎坚不可摧的金库门.</VaultDoor.description>
-  <VaultDoor_Blueprint.label>金库门(蓝图)</VaultDoor_Blueprint.label>
-  <VaultDoor_Frame.label>金库门(建造中)</VaultDoor_Frame.label>
-  <VaultDoor_Frame.description>近乎坚不可摧的金库门.</VaultDoor_Frame.description>
+	<VaultWall.label>金库墙</VaultWall.label>
+	<VaultWall.description>近乎坚不可摧的金库墙.</VaultWall.description>
+	<VaultWall_Blueprint.label>金库墙(蓝图)</VaultWall_Blueprint.label>
+	<VaultWall_Frame.label>金库墙(建造中)</VaultWall_Frame.label>
+	<VaultWall_Frame.description>近乎坚不可摧的金库墙.</VaultWall_Frame.description>
 
 
-  <!-- AutoDoors -->
+	<!-- Doors -->
 
-  <VaultAutodoor.label>自动金库门</VaultAutodoor.label>
-  <VaultAutodoor.description>近乎坚不可摧的自动金库门.</VaultAutodoor.description>
-  <VaultAutodoor_Blueprint.label>自动金库门(蓝图)</VaultAutodoor_Blueprint.label>
-  <VaultAutodoor_Frame.label>自动金库门(建造中)</VaultAutodoor_Frame.label>
-  <VaultAutodoor_Frame.description>近乎坚不可摧的自动金库门.</VaultAutodoor_Frame.description>
+	<VaultDoor.label>金库门</VaultDoor.label>
+	<VaultDoor.description>近乎坚不可摧的金库门.</VaultDoor.description>
+	<VaultDoor_Blueprint.label>金库门(蓝图)</VaultDoor_Blueprint.label>
+	<VaultDoor_Frame.label>金库门(建造中)</VaultDoor_Frame.label>
+	<VaultDoor_Frame.description>近乎坚不可摧的金库门.</VaultDoor_Frame.description>
+
+
+	<!-- AutoDoors -->
+
+	<VaultAutodoor.label>自动金库门</VaultAutodoor.label>
+	<VaultAutodoor.description>近乎坚不可摧的自动金库门.</VaultAutodoor.description>
+	<VaultAutodoor_Blueprint.label>自动金库门(蓝图)</VaultAutodoor_Blueprint.label>
+	<VaultAutodoor_Frame.label>自动金库门(建造中)</VaultAutodoor_Frame.label>
+	<VaultAutodoor_Frame.description>近乎坚不可摧的自动金库门.</VaultAutodoor_Frame.description>
 
 
 </LanguageData>
