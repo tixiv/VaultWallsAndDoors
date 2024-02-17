@@ -1,0 +1,16 @@
+D:\BackUp\Modding\RimWorld\Rimhammer-The-End-Times-Ogres1.2\Assemblies\RH_TET_Ogres.dll
+D:\BackUp\Modding\RimWorld\Rimhammer-The-End-Times-Ogres1.2\Source\Ogres\obj\Debug\RH_TET_Ogres.csprojAssemblyReference.cache
+D:\BackUp\Modding\RimWorld\Rimhammer-The-End-Times-Ogres1.2\Source\Ogres\obj\Debug\RH_TET_Ogres.csproj.CoreCompileInputs.cache
+D:\BackUp\Modding\RimWorld\Rimhammer-The-End-Times-Ogres1.2\Source\Ogres\obj\Debug\RH_TET_Ogres.dll
+D:\BackUp\Modding\RimWorld\1.3\Rimhammer-The-End-Times-Ogres1.3\Assemblies\RH_TET_Ogres.dll
+D:\BackUp\Modding\RimWorld\1.3\Rimhammer-The-End-Times-Ogres1.3\Source\Ogres\obj\Debug\RH_TET_Ogres.csprojAssemblyReference.cache
+D:\BackUp\Modding\RimWorld\1.3\Rimhammer-The-End-Times-Ogres1.3\Source\Ogres\obj\Debug\RH_TET_Ogres.csproj.CoreCompileInputs.cache
+D:\BackUp\Modding\RimWorld\1.3\Rimhammer-The-End-Times-Ogres1.3\Source\Ogres\obj\Debug\RH_TET_Ogres.dll
+D:\BackUp\Modding\RimWorld\1.4\Rimhammer-The-End-Times-Ogres1.4\Source\Ogres\obj\Debug\RH_TET_Ogres.csprojAssemblyReference.cache
+D:\BackUp\Modding\RimWorld\1.4\Rimhammer-The-End-Times-Ogres1.4\Source\Ogres\obj\Debug\RH_TET_Ogres.csproj.CoreCompileInputs.cache
+D:\BackUp\Modding\RimWorld\1.4\Rimhammer-The-End-Times-Ogres1.4\Source\Ogres\obj\Debug\RH_TET_Ogres.dll
+D:\BackUp\Modding\RimWorld\1.4\Rimhammer-The-End-Times-Ogres1.4\Assemblies\RH_TET_Ogres.dll
+D:\BackUp\Modding\RimWorld\Repositories\Rimhammer-The-End-Times-Ogres\Assemblies\RH_TET_Ogres.dll
+D:\BackUp\Modding\RimWorld\Repositories\Rimhammer-The-End-Times-Ogres\1.4\Assemblies\RH_TET_Ogres.dll
+D:\BackUp\Modding\RimWorld\Repositories\Rimhammer-The-End-Times-Ogres\Source\Ogres\obj\Debug\RH_TET_Ogres.csproj.CoreCompileInputs.cache
+D:\BackUp\Modding\RimWorld\Repositories\Rimhammer-The-End-Times-Ogres\Source\Ogres\obj\Debug\RH_TET_Ogres.dll

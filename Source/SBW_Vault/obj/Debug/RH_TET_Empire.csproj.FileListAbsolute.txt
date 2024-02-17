@@ -1,0 +1,12 @@
+E:\Modding\RimWorld\Rimhammer-The-End-Times-Empire1.1\Assemblies\RH_TET_Empire.dll
+E:\Modding\RimWorld\Rimhammer-The-End-Times-Empire1.1\Source\Empire\obj\Debug\RH_TET_Empire.csprojAssemblyReference.cache
+E:\Modding\RimWorld\Rimhammer-The-End-Times-Empire1.1\Source\Empire\obj\Debug\RH_TET_Empire.csproj.CoreCompileInputs.cache
+E:\Modding\RimWorld\Rimhammer-The-End-Times-Empire1.1\Source\Empire\obj\Debug\RH_TET_Empire.dll
+E:\Modding\RimWorld\Rimhammer-The-End-Times-Empire1.2\Assemblies\RH_TET_Empire.dll
+E:\Modding\RimWorld\Rimhammer-The-End-Times-Empire1.2\Source\Empire\obj\Debug\RH_TET_Empire.csprojAssemblyReference.cache
+E:\Modding\RimWorld\Rimhammer-The-End-Times-Empire1.2\Source\Empire\obj\Debug\RH_TET_Empire.csproj.CoreCompileInputs.cache
+E:\Modding\RimWorld\Rimhammer-The-End-Times-Empire1.2\Source\Empire\obj\Debug\RH_TET_Empire.dll
+D:\BackUp\Modding\RimWorld\Rimhammer-The-End-Times-Empire1.2\Assemblies\RH_TET_Empire.dll
+D:\BackUp\Modding\RimWorld\Rimhammer-The-End-Times-Empire1.2\Source\Empire\obj\Debug\RH_TET_Empire.csprojAssemblyReference.cache
+D:\BackUp\Modding\RimWorld\Rimhammer-The-End-Times-Empire1.2\Source\Empire\obj\Debug\RH_TET_Empire.csproj.CoreCompileInputs.cache
+D:\BackUp\Modding\RimWorld\Rimhammer-The-End-Times-Empire1.2\Source\Empire\obj\Debug\RH_TET_Empire.dll

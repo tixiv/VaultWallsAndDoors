@@ -1,0 +1,14 @@
+C:\BackUp\Modding\Rimworld\SickBoyWi\Rimhammer-The-End-Times-Dwarfs\Assemblies\RH_TET_Dwarfs.dll
+C:\BackUp\Modding\Rimworld\SickBoyWi\Rimhammer-The-End-Times-Dwarfs\Source\Dwarfs\obj\Debug\RH_TET_Dwarfs.csproj.CoreCompileInputs.cache
+C:\BackUp\Modding\Rimworld\SickBoyWi\Rimhammer-The-End-Times-Dwarfs\Source\Dwarfs\obj\Debug\RH_TET_Dwarfs.csproj.CopyComplete
+C:\BackUp\Modding\Rimworld\SickBoyWi\Rimhammer-The-End-Times-Dwarfs\Source\Dwarfs\obj\Debug\RH_TET_Dwarfs.dll
+E:\Modding\RimWorld\Rimhammer-The-End-Times-Dwarfs\Assemblies\RH_TET_Dwarfs.dll
+E:\Modding\RimWorld\Rimhammer-The-End-Times-Dwarfs\Source\Dwarfs\obj\Debug\RH_TET_Dwarfs.csproj.CoreCompileInputs.cache
+E:\Modding\RimWorld\Rimhammer-The-End-Times-Dwarfs\Source\Dwarfs\obj\Debug\RH_TET_Dwarfs.csproj.CopyComplete
+E:\Modding\RimWorld\Rimhammer-The-End-Times-Dwarfs\Source\Dwarfs\obj\Debug\RH_TET_Dwarfs.dll
+E:\Modding\RimWorld\Rimhammer-The-End-Times-Dwarfs\Source\Dwarfs\obj\Debug\RH_TET_Dwarfs.csprojAssemblyReference.cache
+E:\Modding\RimWorld\Rimhammer-The-End-Times-Dwarfs1.1\Source\Dwarfs\obj\Debug\RH_TET_Dwarfs.csprojAssemblyReference.cache
+E:\Modding\RimWorld\Rimhammer-The-End-Times-Dwarfs1.1\Source\Dwarfs\obj\Debug\RH_TET_Dwarfs.csproj.CoreCompileInputs.cache
+E:\Modding\RimWorld\Rimhammer-The-End-Times-Dwarfs1.1\Assemblies\RH_TET_Dwarfs.dll
+E:\Modding\RimWorld\Rimhammer-The-End-Times-Dwarfs1.1\Source\Dwarfs\obj\Debug\RH_TET_Dwarfs.dll
+E:\Modding\RimWorld\Rimhammer-The-End-Times-Dwarfs1.1\Source\Dwarfs\obj\Debug\RH_TET_Dwarfs.csproj.CopyComplete
