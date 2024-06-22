@@ -79,6 +79,7 @@
 			<blueprintGraphicData>
 				<texPath>Things/Building/Linked/VaultEmbrasure/VaultEmbrasure_Blueprint_Atlas</texPath>
 			</blueprintGraphicData>
+			<supportsWallAttachments>true</supportsWallAttachments>
 		</building>
 		<damageMultipliers>
 			<li>
