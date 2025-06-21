@@ -1,3 +1,0 @@
-D:\BackUp\Modding\RimWorld\Repositories\Vault\1.4\Assemblies\SBW_Vault.dll
-D:\BackUp\Modding\RimWorld\Repositories\Vault\Source\SBW_Vault\obj\Debug\SBW_Vault.csproj.CoreCompileInputs.cache
-D:\BackUp\Modding\RimWorld\Repositories\Vault\Source\SBW_Vault\obj\Debug\SBW_Vault.dll
