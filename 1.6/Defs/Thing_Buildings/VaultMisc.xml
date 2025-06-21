@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef ParentName="BuildingBase">
+		<defName>VaultVent</defName>
+		<label>vault vent</label>
+		<description>A vent for equalizing the temperature between two rooms without allowing people to walk between them. Sturdy, and meant for a vault. If the vent is destroyed, the wall remains.\n\nAir flow is important in a panic room, and this vent accomplishes that.</description>
+		<thingClass>Building_Vent</thingClass>
+		<graphicData>
+			<texPath>Things/Building/Misc/Wall_Vent</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+			</damageData>
+		</graphicData>
+		<passability>Impassable</passability>
+		<blockWind>true</blockWind>
+		<coversFloor>true</coversFloor>
+		<blockLight>true</blockLight>
+		<castEdgeShadows>true</castEdgeShadows>
+		<canOverlapZones>false</canOverlapZones>
+		<staticSunShadowHeight>1.0</staticSunShadowHeight>
+		<statBases>
+			<WorkToBuild>500</WorkToBuild>
+			<MaxHitPoints>150</MaxHitPoints>
+			<Flammability>0.1</Flammability>
+		</statBases>
+		<tickerType>Rare</tickerType>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		<costStuffCount>75</costStuffCount>
+
+		<fillPercent>0.99</fillPercent>
+		<altitudeLayer>PawnUnused</altitudeLayer>
+	
+		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+		<placeWorkers>
+			<li>PlaceWorker_Vent</li>
+			<li>SBW_Vault.PlaceWorker_OnWallVent</li>
+		</placeWorkers>
+		<drawPlaceWorkersWhileSelected>true</drawPlaceWorkersWhileSelected>
+		<building>
+			<canPlaceOverWall>true</canPlaceOverWall>
+			<isEdifice>false</isEdifice>
+		</building>
+		<clearBuildingArea>false</clearBuildingArea>
+		<researchPrerequisites>
+			<li>VaultWallsAndDoors</li>
+			<li>ComplexFurniture</li>
+		</researchPrerequisites>
+		<designationHotKey>Misc8</designationHotKey>
+		<comps>
+			<li Class="CompProperties_Flickable">
+				<commandTexture>UI/Commands/Vent</commandTexture>
+				<commandLabelKey>CommandDesignateOpenCloseVentLabel</commandLabelKey>
+				<commandDescKey>CommandDesignateOpenCloseVentDesc</commandDescKey>
+			</li>
+		</comps>
+		<designationCategory>Temperature</designationCategory>
+		<disableImpassableShotOverConfigError>True</disableImpassableShotOverConfigError>
+	</ThingDef>
+
+</Defs>
