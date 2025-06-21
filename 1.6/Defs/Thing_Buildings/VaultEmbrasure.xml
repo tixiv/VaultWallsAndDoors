@@ -54,7 +54,7 @@
 		<castEdgeShadows>true</castEdgeShadows>
 		<fillPercent>.75</fillPercent>
 		<coversFloor>true</coversFloor>
-		<placingDraggableDimensions>1</placingDraggableDimensions>
+		<drawStyleCategory>Walls</drawStyleCategory>
 		<tickerType>Never</tickerType>
 		<rotatable>false</rotatable>
 		<selectable>true</selectable>

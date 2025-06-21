@@ -41,7 +41,7 @@
 		<castEdgeShadows>true</castEdgeShadows>
 		<fillPercent>1</fillPercent>
 		<coversFloor>true</coversFloor>
-		<placingDraggableDimensions>1</placingDraggableDimensions>
+		<drawStyleCategory>Walls</drawStyleCategory>
 		<tickerType>Never</tickerType>
 		<rotatable>false</rotatable>
 		<selectable>true</selectable>
@@ -62,7 +62,9 @@
 		</costList>
 		<building>
 			<isInert>true</isInert>
+			<isWall>true</isWall>
 			<ai_chillDestination>false</ai_chillDestination>
+			<isStuffableAirtight>true</isStuffableAirtight>
 			<blueprintGraphicData>
 				<texPath>Things/Building/Linked/Wall_Blueprint_Atlas</texPath>
 			</blueprintGraphicData>
@@ -122,6 +124,9 @@
 		<researchPrerequisites>
 			<li>VaultWallsAndDoors</li>
 		</researchPrerequisites>
+		<replaceTags>
+			<li>Wall</li>
+		</replaceTags>
 	</ThingDef>
   
 	<!--========================= Doors =============================-->
